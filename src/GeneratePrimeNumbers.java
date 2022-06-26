@@ -52,3 +52,9 @@ public class GeneratePrimeNumbers {
 
     }
 }
+
+// Write a program to check Prime or Not
+// 1 to Num - Generate
+// Num1, Num2 - Generate
+// Num1, Num2 - Count number of Prime and Non Prime
+// Write
